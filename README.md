@@ -52,6 +52,7 @@ Hız Ayarı: Kaydırıcı ile robotun hızını değiştirin
 Kamera: USB kamera görüntüsünü alın
 
 🖼️ Ekran Görüntüleri
+![Screenshot 2025-03-23 222454](https://github.com/user-attachments/assets/c86ff3ae-e580-444f-9c78-76e1f541430f)
 
-![Screenshot 2025-03-23 222454](https://github.com/user-attachments/assets/56f71542-6a5e-434c-b381-9bce4af37f9e)
+
 
