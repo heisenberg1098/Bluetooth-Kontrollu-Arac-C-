@@ -1,0 +1,51 @@
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe.config
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.pdb
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csprojAssemblyReference.cache
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Form1.resources
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Properties.Resources.resources
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.GenerateResource.cache
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CoreCompileInputs.cache
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.exe
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.pdb
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.dll
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.dll
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.xml
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.xml
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yenes\source\repos\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CopyComplete
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe.config
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.pdb
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.dll
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.dll
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.xml
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.xml
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csprojAssemblyReference.cache
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Form1.resources
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Properties.Resources.resources
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.GenerateResource.cache
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CoreCompileInputs.cache
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CopyComplete
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.exe
+C:\Users\yenes\OneDrive\Masaüstü\C# Projeleri\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.pdb
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe.config
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.exe
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\bluetootdeneme.pdb
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.dll
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.dll
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.xml
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.xml
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csprojAssemblyReference.cache
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Form1.resources
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.Properties.Resources.resources
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.GenerateResource.cache
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CoreCompileInputs.cache
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.csproj.CopyComplete
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.exe
+C:\Users\yenes\OneDrive\Masaüstü\Yeni klasör\bluetootdeneme\bluetootdeneme\obj\Debug\bluetootdeneme.pdb
